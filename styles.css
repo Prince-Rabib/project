@@ -426,7 +426,8 @@ svg {
     left: -100%;
   }
 }
-#pop:hover {
+
+.pop:hover {
   animation: pop 0.3s linear 1;
 }
 
@@ -444,7 +445,7 @@ svg {
     transform: scale(1.2);
   }
 }
-#pulse:hover {
+.pulse:hover {
   animation: pulse 0.3s linear 1;
 }
 @keyframes pulse {
