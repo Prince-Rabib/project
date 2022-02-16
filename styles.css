@@ -125,6 +125,7 @@ span {
 }
 
 .list {
+  margin: auto;
   width: 90%;
   list-style: none;
   margin-top: 2%;
@@ -239,6 +240,7 @@ span {
 }
 
 table {
+  margin: auto;
   width: 80%;
   margin-bottom: 3%;
 }
